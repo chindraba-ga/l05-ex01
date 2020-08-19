@@ -1,6 +1,6 @@
 # l05-ex01
 
--  Status: Pending
+-  Status: Submitted
 -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
 ## Contents

@@ -58,7 +58,22 @@
       How do you make the images responsive?
       Check the solution to see the result but give this a good effort before doing so if you can.
     */
-  </style>
+  .grid-city {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 25px;
+    }
+    .grid-city div {
+      border: 1px red solid;
+      background-color: linen;
+    }
+    img {
+      max-width: 100%;
+      display: block;
+      height: auto;
+      border: 2px gold solid;
+    }
+</style>
 </head>
 <body>
     <!doctype html>
