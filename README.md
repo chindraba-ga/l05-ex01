@@ -1,6 +1,7 @@
 # l05-ex01
 
 -  Status: Submitted
+-  CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
 -  Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
 
 ## Contents
