@@ -1,7 +1,7 @@
 l05-ex01
 * Status: Final
 * CodePen: <https://codepen.io/chindraba-ga/pen/eYZdpLJ>
-* Live page: <https://www.chindraba.work/fewd/l05-ex01.html>
+* Live page: <https://fewd.chindraba.work/lessons/l05-ex01/index.html>
 
 Contents
 ================================================================================
